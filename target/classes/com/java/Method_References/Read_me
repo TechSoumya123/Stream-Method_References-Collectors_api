@@ -1,0 +1,7 @@
+Method References:-> 
+)->Method references are a feature introduced in java 8 that provide a shorthand syntax for invoking methods or constructors.
+)->They allow developers to pass a method or constructor reference as a functional interface argument, instead of providing a lambda expression.
+1.Reference to a static method
+2.Reference to an instance method of a particular
+3.Reference to an instance method of a particular object
+4.Reference to a constructor
